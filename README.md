@@ -1,8 +1,9 @@
+![카드 썸네일](https://github.com/user-attachments/assets/8a82054b-b635-4b36-8658-a6341980e796)
+
 # StudyTrip
 
 > "목표를 위한 하나의 여행" - 특정 목표를 달성하기 위한 학습 여정을 체계적으로 관리하는 서비스입니다.
 
-<br/>
 <br/>
 
 # 📖 프로젝트 소개
@@ -16,7 +17,6 @@
 학습자들이 중장기 목표를 설정하고도 일관된 동기 유지와 진행 상황 추적의 어려움을 겪고 있다고 판단하여, 이를 '여행'이라는 직관적 메타포로 해결하고자 했습니다
 
 <br/>
-<br/>
 
 # 📜 주요 기능
 
@@ -25,7 +25,12 @@
 - 학습 기록 및 회고: 일일 학습 내용, 느낀 점, 질문사항 기록
 
 <br/>
-<br/>
+
+# 프로젝트 소개 발표 자료
+
+![서비스 샘플 이미지_01](https://github.com/user-attachments/assets/84a0e9e7-4a6d-4a02-83dc-797cb5335b88)
+![서비스 샘플 이미지_02](https://github.com/user-attachments/assets/acea3b8a-e787-4f72-a13b-d9d43cfa88b4)
+![서비스 샘플 이미지_03](https://github.com/user-attachments/assets/d07ad364-3b72-47b3-a5ae-a7c7f4955249)
 
 # 🛠 기술 스택
 
@@ -41,7 +46,6 @@
 - **Code Format**: Prettier, ESLint
 - **Package Manager**: npm
 
-<br/>
 <br/>
 
 # 📁 폴더 구조
@@ -91,12 +95,11 @@ src/
 - `pages` 폴더 는 추후 기능 개발 중 페이지 추가 예정입니다.
 
 <br/>
-<br/>
 
 # 👥 팀원 소개
 
 | 역할     | 이름   | GitHub                                     |
 | -------- | ------ | ------------------------------------------ |
-| Frontend | 장해명 | [@jjaneyxx](https://github.com/jjaneyxx)   |
+| Frontend | 문소희 | [@ccconac](https://github.com/ccconac)   |
 | Frontend | 박지영 | [@arida0511](https://github.com/arida0511) |
-|          |        |                                            |
+| Frontend | 장해명 | [@jjaneyxx](https://github.com/jjaneyxx)   |
